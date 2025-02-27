@@ -3,4 +3,4 @@ Repository to store all the Python Textbook Companions.
 
 Visit Python TBC here http://tbc-python.fossee.in/
 
-### Click here to view the Binder version: [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/OJB-Quantum/Python-Textbook-Companions)
+### Click here to render the notebooks in the browser: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/OJB-Quantum/Python-Textbook-Companions)
